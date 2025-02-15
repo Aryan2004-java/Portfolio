@@ -8,10 +8,10 @@ Tech Stack
 Frontend: HTML, CSS
 No JavaScript or backend is used (keeping it simple)
 Features
-✅ Clean and responsive UI with easy navigation
-✅ Sections for popular data structures and algorithms
-✅ Embedded code snippets for reference
-✅ Simple yet well-structured design
+Clean and responsive UI with easy navigation
+Sections for popular data structures and algorithms
+Embedded code snippets for reference
+Simple yet well-structured design
 
 Project Structure
 bash
